@@ -1,0 +1,1 @@
+{"name":"portfolio-manager","path":"","description":"create your portfolio in easy way","isDb":true,"isLocalDB":true,"dbUrl":"mongodb://localhost/","dbName":"portfolio-manager","isAuth":true,"routes":["/","/user"]}
